@@ -1,7 +1,6 @@
-# CreatorTech Hub
+# TechVerse
 
-A responsive affiliate marketing blog website focused on real tech gadgets for students and creators, built with HTML, CSS, and JavaScript.
-
+Latest technology for everyone
 ## Project Structure
 
 ```
